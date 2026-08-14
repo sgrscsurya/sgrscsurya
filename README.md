@@ -306,7 +306,9 @@ I actively contribute to open source projects, focusing on bug fixes, feature en
 ### 🌐 Portfolio Preview
 
 <a href="https://portfolio-y5yc.onrender.com/">
-<img width="100%" src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fportfolio-y5yc.onrender.com%2F?w=1200&h=675" alt="Live preview of Surya Ganesh's portfolio"/>
+  <img width="100%" 
+       src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fportfolio-y5yc.onrender.com%2F?w=1200&h=675"
+       alt="Live preview of Surya Ganesh's portfolio"/>
 </a>
 
 <sub>🔴 🟡 🟢 &nbsp; <code>portfolio-y5yc.onrender.com</code> &nbsp; — 🖱️ click the preview to open the live site.</sub>

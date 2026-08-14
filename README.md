@@ -280,7 +280,7 @@ Secure authentication microservice with JWT, OAuth2, and rate-limiting middlewar
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20500+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surya_ganesh20/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surya_ganesh20/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sgrscsurya)
 
 </div>

@@ -23,7 +23,7 @@ jobs:
           card: stats
           options: username=sgrscsurya&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=8B5CF6&text_color=c9d1d9
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           options: username=sgrscsurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&langs_count=8
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin - SkillMatrix
         uses: stats-organization/github-readme-stats-action@v2
@@ -39,7 +39,7 @@ jobs:
           card: pin
           options: username=sgrscsurya&repo=SkillMatrix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6
           path: profile/pin-skillmatrix.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin - Bloodonar
         uses: stats-organization/github-readme-stats-action@v2
@@ -47,7 +47,7 @@ jobs:
           card: pin
           options: username=bloodonar&repo=Bloodonar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6&show_owner=true
           path: profile/pin-bloodonar.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin - WebScraperPro
         uses: stats-organization/github-readme-stats-action@v2
@@ -55,7 +55,7 @@ jobs:
           card: pin
           options: username=sgrscsurya&repo=WebScraperPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6
           path: profile/pin-webscraperpro.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin - HoloForge-AI
         uses: stats-organization/github-readme-stats-action@v2
@@ -63,14 +63,19 @@ jobs:
           card: pin
           options: username=sgrscsurya&repo=HoloForge-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6
           path: profile/pin-holoforge-ai.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate trophy card
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: sgrscsurya
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: trophy.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Move trophy into profile folder
+        run: |
+          mkdir -p profile
+          mv -f trophy.svg profile/trophy.svg
 
       - name: Commit cards
         run: |

@@ -10,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00F5D4&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=F59E0B&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=sgrscsurya&label=Profile%20Views&color=00F5D4&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/sgrscsurya?label=Followers&style=for-the-badge&color=8B5CF6&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/sgrscsurya?label=Stars&style=for-the-badge&color=F59E0B&logo=github)
 
 </div>
 
@@ -126,8 +126,8 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=8B5CF6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sgrscsurya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=8B5CF6&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgrscsurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&langs_count=8"/>
 
 </div>
 
@@ -137,7 +137,7 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=8B5CF6&fire=F59E0B&currStreakLabel=00F5D4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgrscsurya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=8B5CF6&fire=F59E0B&currStreakLabel=00F5D4"/>
 
 </div>
 
@@ -147,7 +147,7 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/sgrscsurya/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
 <sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — see setup instructions below to activate this on your profile.</sub>
 
@@ -159,7 +159,7 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=8B5CF6&point=F59E0B" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sgrscsurya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5D4&line=8B5CF6&point=F59E0B" width="100%"/>
 
 </div>
 
@@ -169,7 +169,7 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sgrscsurya&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7"/>
 
 </div>
 
@@ -179,17 +179,17 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+<a href="https://github.com/sgrscsurya/PROJECT_ONE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=PROJECT_ONE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+<a href="https://github.com/sgrscsurya/PROJECT_TWO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=PROJECT_TWO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+<a href="https://github.com/sgrscsurya/PROJECT_THREE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=PROJECT_THREE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+<a href="https://github.com/sgrscsurya/PROJECT_FOUR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=PROJECT_FOUR&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
 </a>
 
 </div>
@@ -198,7 +198,7 @@ public class SuryaGanesh {
 <tr>
 <td width="50%">
 
-### 🛒 [Project Name One](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_ONE)
+### 🛒 [Project Name One](https://github.com/sgrscsurya/PROJECT_ONE)
 Full-stack e-commerce platform with real-time inventory, secure payments, and role-based auth.
 
 `React` `Node.js` `Supabase` `TypeScript`
@@ -206,7 +206,7 @@ Full-stack e-commerce platform with real-time inventory, secure payments, and ro
 </td>
 <td width="50%">
 
-### 📊 [Project Name Two](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_TWO)
+### 📊 [Project Name Two](https://github.com/sgrscsurya/PROJECT_TWO)
 Analytics dashboard with live data visualization and RESTful Java Spring Boot backend.
 
 `Java` `Spring Boot` `React` `PostgreSQL`
@@ -216,7 +216,7 @@ Analytics dashboard with live data visualization and RESTful Java Spring Boot ba
 <tr>
 <td width="50%">
 
-### 🤖 [Project Name Three](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_THREE)
+### 🤖 [Project Name Three](https://github.com/sgrscsurya/PROJECT_THREE)
 AI-powered productivity tool leveraging LLM APIs for smart task automation.
 
 `Next.js` `TypeScript` `OpenAI API` `Tailwind`
@@ -224,7 +224,7 @@ AI-powered productivity tool leveraging LLM APIs for smart task automation.
 </td>
 <td width="50%">
 
-### 🔐 [Project Name Four](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_FOUR)
+### 🔐 [Project Name Four](https://github.com/sgrscsurya/PROJECT_FOUR)
 Secure authentication microservice with JWT, OAuth2, and rate-limiting middleware.
 
 `Java` `Spring Security` `Docker` `Redis`
@@ -318,7 +318,7 @@ I actively contribute to open source projects, focusing on bug fixes, feature en
 
 ### ⭐ If you find my work inspiring, consider giving my repositories a star!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F5D4&style=flat-square&label=Thanks+for+visiting)
+![Profile Views](https://komarev.com/ghpvc/?username=sgrscsurya&color=00F5D4&style=flat-square&label=Thanks+for+visiting)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 

@@ -171,9 +171,11 @@ public class SuryaGanesh {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sgrscsurya&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&row=1&column=7"/>
+<img src="./profile/trophy.svg"/>
 
 </div>
+
+<sub>⚙️ Generated via GitHub Actions self-hosting (see setup steps below) instead of the shared public instance, which is frequently overloaded.</sub>
 
 ---
 
@@ -182,16 +184,16 @@ public class SuryaGanesh {
 <div align="center">
 
 <a href="https://github.com/sgrscsurya/SkillMatrix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=SkillMatrix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+  <img src="./profile/pin-skillmatrix.svg" />
 </a>
 <a href="https://github.com/bloodonar/Bloodonar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bloodonar&repo=Bloodonar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6&show_owner=true" />
+  <img src="./profile/pin-bloodonar.svg" />
 </a>
 <a href="https://github.com/sgrscsurya/WebScraperPro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=WebScraperPro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+  <img src="./profile/pin-webscraperpro.svg" />
 </a>
 <a href="https://github.com/sgrscsurya/HoloForge-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sgrscsurya&repo=HoloForge-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=8B5CF6" />
+  <img src="./profile/pin-holoforge-ai.svg" />
 </a>
 
 </div>
@@ -240,7 +242,7 @@ Secure authentication microservice with JWT, OAuth2, and rate-limiting middlewar
 ## 💼 Experience & Leadership
 
 ```
-2025 — Present   💻 Software Engineer Intern @ COMPANY_NAME
+2025 — Present   💻 Software Engineer Intern @ Yuga Yatra Private Limited
                     → Building full-stack features across React/Node.js & Java services
                     → Collaborating in Agile sprints with cross-functional teams
 
@@ -298,6 +300,16 @@ I actively contribute to open source projects, focusing on bug fixes, feature en
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sgrscsurya@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/surya_ganesh20/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sgrscsurya)
+
+<br/>
+
+### 🌐 Portfolio Preview
+
+<a href="https://portfolio-y5yc.onrender.com/">
+<img width="100%" src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fportfolio-y5yc.onrender.com%2F?w=1200&h=675" alt="Live preview of Surya Ganesh's portfolio"/>
+</a>
+
+<sub>🔴 🟡 🟢 &nbsp; <code>portfolio-y5yc.onrender.com</code> &nbsp; — 🖱️ click the preview to open the live site.</sub>
 
 </div>
 
